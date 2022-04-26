@@ -44,5 +44,5 @@ spec:
     name: varlibkubescheduler
   - hostPath:
       path: /var/log/kube-scheduler.log
-    name: logfile
+    name: logfile                                        
 status: {} 
